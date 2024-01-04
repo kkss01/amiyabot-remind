@@ -1,0 +1,9 @@
+
+# 未设置提醒内容时发送的文本
+defaultReply: 博士, 你设置的时间已经到啦
+
+# 如果提醒是一次性的, 是否在提醒后删除数据库记录
+deleteExecuted: false
+
+# 使用mysql?, 否则使用sqlite, 此项重启bot或重装插件生效
+isMysql: false
